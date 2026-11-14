@@ -268,6 +268,7 @@ npm run dev
 | `npm run build` / `npm run preview` | 프로덕션 빌드 / 미리보기 |
 | `npm run lint` / `npm run typecheck` | ESLint / TypeScript |
 | `npm test` | 단위 테스트 (Vitest — 진행 저장소, 백업, Admin 빌더) |
+| `npm run test:watch` | 변경을 감시하며 단위 테스트 다시 실행 |
 | `npm run test:e2e` | Playwright E2E (dev 서버 자동 실행) |
 
 ### 테스트

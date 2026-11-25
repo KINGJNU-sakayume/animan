@@ -1,0 +1,1127 @@
+{
+  "id": "71ae39d8-9c66-4d30-a52d-8732f9c9936b",
+  "title": "진격의 거인 (進撃の巨人)",
+  "description": "거인이 지배하는 세계에서 거대한 삼중 성벽 안에 살아가던 인류. 초대형 거인이 성벽을 무너뜨린 날, 엘런 예거는 어머니를 잃고 거인을 모조리 몰아내겠다고 맹세한다. 이사야마 하지메의 다크 판타지 액션",
+  "cover_url": "",
+  "banner_url": "",
+  "accent_color": "#8a6d3b",
+  "youtube_bgm_id": "",
+  "created_at": "2026-11-25T10:58:01.395922+00:00",
+  "seasons": [
+    {
+      "id": "e6a4a7ef-11ca-4f24-9a9e-965fe2fcd3d3",
+      "name": "SEASON 1",
+      "start_chapter": 1,
+      "end_chapter": 33
+    },
+    {
+      "id": "a4b15cde-1497-4fb1-8a84-b90a234113df",
+      "name": "SEASON 2",
+      "start_chapter": 34,
+      "end_chapter": 50
+    },
+    {
+      "id": "94d61625-9020-463b-8fec-5e8007e55896",
+      "name": "SEASON 3",
+      "start_chapter": 51,
+      "end_chapter": 90
+    },
+    {
+      "id": "ed09533a-28f7-4285-8a0e-3a91d62f2c56",
+      "name": "THE FINAL SEASON",
+      "start_chapter": 91,
+      "end_chapter": 139
+    }
+  ],
+  "episodes": [
+    {
+      "id": "6c4f3c94-8ca4-49cd-807f-7d1e2615235e",
+      "episode_number": "1",
+      "title": "2000년 후의 너에게 ―시간시나 함락①―",
+      "start_chapter": 1,
+      "end_chapter": 1,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "24d85543-be28-42c4-b062-71dbe22c2f50",
+      "episode_number": "2",
+      "title": "그날 ―시간시나 함락②―",
+      "start_chapter": 2,
+      "end_chapter": 2,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "fbedf67f-27b2-4982-98ff-6053fa22009a",
+      "episode_number": "3",
+      "title": "절망 속에서 둔하게 빛나는 ―인류의 재기①―",
+      "start_chapter": 3,
+      "end_chapter": 3,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "71217952-c4a6-4891-b8b9-70d0bbc96d4f",
+      "episode_number": "4",
+      "title": "해산식 밤 ―인류의 재기②―",
+      "start_chapter": 3,
+      "end_chapter": 3,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "8410b6d1-b51d-4f78-ad5f-c8c214e28da2",
+      "episode_number": "5",
+      "title": "첫 출전 ―트로스트구 공방전①―",
+      "start_chapter": 4,
+      "end_chapter": 5,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "6912923a-f17e-48f0-b505-1e73f7ddc4d3",
+      "episode_number": "6",
+      "title": "소녀가 본 세계 ―트로스트구 공방전②―",
+      "start_chapter": 6,
+      "end_chapter": 6,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "6f9e62a3-1709-4566-8223-3f35806a35bc",
+      "episode_number": "7",
+      "title": "작은 칼날 ―트로스트구 공방전③―",
+      "start_chapter": 7,
+      "end_chapter": 7,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "5a855b49-ce0d-4559-b1ba-fe34df4a4772",
+      "episode_number": "8",
+      "title": "심장의 고동이 들린다 ―트로스트구 공방전④―",
+      "start_chapter": 8,
+      "end_chapter": 9,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "ab4418a1-a43a-40cc-bd10-bf4f4c6dcb77",
+      "episode_number": "9",
+      "title": "왼팔의 행방 ―트로스트구 공방전⑤―",
+      "start_chapter": 10,
+      "end_chapter": 10,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "e78039a6-b9ed-4d26-8644-1d65d99196a7",
+      "episode_number": "10",
+      "title": "부응하다 ―트로스트구 공방전⑥―",
+      "start_chapter": 11,
+      "end_chapter": 11,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "4371ce5d-b6a5-46aa-8997-36138af90898",
+      "episode_number": "11",
+      "title": "우상 ―트로스트구 공방전⑦―",
+      "start_chapter": 12,
+      "end_chapter": 12,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "48fb4e9e-ad48-47ed-a2a9-99e781f6eaa7",
+      "episode_number": "12",
+      "title": "상처 ―트로스트구 공방전⑧―",
+      "start_chapter": 13,
+      "end_chapter": 14,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "6fa9d791-9dc1-41a8-ba33-7ec731e11e32",
+      "episode_number": "13",
+      "title": "원초적 욕구 ―트로스트구 공방전⑨―",
+      "start_chapter": 15,
+      "end_chapter": 17,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "94ec0f13-250b-450f-9db8-02afa0bd8218",
+      "episode_number": "14",
+      "title": "아직 눈을 마주 볼 수 없어 ―반격 전야①―",
+      "start_chapter": 18,
+      "end_chapter": 19,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "f682cef2-52d0-4a9a-be57-dd85341badc2",
+      "episode_number": "15",
+      "title": "특별작전반 ―반격 전야②―",
+      "start_chapter": 20,
+      "end_chapter": 20,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "5563f54f-4631-401d-8437-b64be2b11ad0",
+      "episode_number": "16",
+      "title": "지금, 무엇을 해야 하는가 ―반격 전야③―",
+      "start_chapter": 21,
+      "end_chapter": 21,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "2e1ad50c-ef29-4c69-b23e-e8da4cc8c294",
+      "episode_number": "17",
+      "title": "여형 거인 ―제57회 벽외조사①―",
+      "start_chapter": 22,
+      "end_chapter": 23,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "317bc2a3-6223-4c01-bc0d-96457f880a2b",
+      "episode_number": "18",
+      "title": "거대수의 숲 ―제57회 벽외조사②―",
+      "start_chapter": 24,
+      "end_chapter": 24,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "7cc0623a-af22-4df2-b199-1abfbdfbd86d",
+      "episode_number": "19",
+      "title": "물어뜯다 ―제57회 벽외조사③―",
+      "start_chapter": 25,
+      "end_chapter": 26,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "675eb0ad-565d-47aa-9831-3fb21133a0b6",
+      "episode_number": "20",
+      "title": "에르빈 스미스 ―제57회 벽외조사④―",
+      "start_chapter": 27,
+      "end_chapter": 28,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "2cec759d-5be8-44b6-a775-d9dce7efe309",
+      "episode_number": "21",
+      "title": "철퇴 ―제57회 벽외조사⑤―",
+      "start_chapter": 29,
+      "end_chapter": 29,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "60eb6670-309f-4398-bad2-7b83c44ca7b4",
+      "episode_number": "22",
+      "title": "패자들 ―제57회 벽외조사⑥―",
+      "start_chapter": 30,
+      "end_chapter": 30,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "b6a1c578-a6a4-4291-9429-5aaca65bab58",
+      "episode_number": "23",
+      "title": "미소 ―스토헤스구 급습①―",
+      "start_chapter": 31,
+      "end_chapter": 31,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "6d9cb58b-bb86-47c2-a74b-beff519ff83f",
+      "episode_number": "24",
+      "title": "자비 ―스토헤스구 급습②―",
+      "start_chapter": 32,
+      "end_chapter": 32,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "a679e818-978b-4570-bcb1-fd727a42aee1",
+      "episode_number": "25",
+      "title": "벽 ―스토헤스구 급습③―",
+      "start_chapter": 33,
+      "end_chapter": 34,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "0a1a12ff-8929-48d2-94a8-321b1808cdc2",
+      "episode_number": "26",
+      "title": "짐승 거인",
+      "start_chapter": 35,
+      "end_chapter": 35,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "bd6004b3-c64f-4c41-a5b0-f1cfab04d674",
+      "episode_number": "27",
+      "title": "다녀왔어",
+      "start_chapter": 36,
+      "end_chapter": 36,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "09019b23-0919-4434-afd7-976c7953b7c0",
+      "episode_number": "28",
+      "title": "남서쪽으로",
+      "start_chapter": 37,
+      "end_chapter": 38,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "42797cdb-f7da-494d-a9e1-22142088a0b0",
+      "episode_number": "29",
+      "title": "병사",
+      "start_chapter": 39,
+      "end_chapter": 40,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "89736cd4-4bf4-40ff-ac97-43aa718adf73",
+      "episode_number": "30",
+      "title": "히스토리아",
+      "start_chapter": 41,
+      "end_chapter": 41,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "91d45992-cfa0-4afb-bf8f-4aef9aa62d6b",
+      "episode_number": "31",
+      "title": "전사",
+      "start_chapter": 42,
+      "end_chapter": 43,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "5a806581-cede-4a63-8791-81ece6eb424e",
+      "episode_number": "32",
+      "title": "타·투·극",
+      "start_chapter": 44,
+      "end_chapter": 44,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "0dc8d005-5fa6-45be-96fa-37fe15fee2fc",
+      "episode_number": "33",
+      "title": "쫓는 자",
+      "start_chapter": 45,
+      "end_chapter": 45,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "d7ef2e6a-a2c8-420c-b2b8-dd23889d9c70",
+      "episode_number": "34",
+      "title": "입을 열다",
+      "start_chapter": 46,
+      "end_chapter": 46,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "4cd2d187-13e1-42c8-83b7-2f5ac2534ca6",
+      "episode_number": "35",
+      "title": "아이들",
+      "start_chapter": 47,
+      "end_chapter": 48,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "516de640-71bd-4b3b-91e4-a45e2644f0c5",
+      "episode_number": "36",
+      "title": "돌격",
+      "start_chapter": 49,
+      "end_chapter": 49,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "ba8b6ea1-6bd4-4ed6-960b-37563afdb9cf",
+      "episode_number": "37",
+      "title": "외침",
+      "start_chapter": 50,
+      "end_chapter": 50,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "d2aca226-5ee3-4071-9b0f-ee943722f55c",
+      "episode_number": "38",
+      "title": "봉화",
+      "start_chapter": 53,
+      "end_chapter": 54,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "6e0dcd7d-0973-4b5a-b7be-2ebd9d82d281",
+      "episode_number": "39",
+      "title": "고통",
+      "start_chapter": 55,
+      "end_chapter": 57,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "f07a1c91-bc9d-4e3c-9a95-4b04f066d6c3",
+      "episode_number": "40",
+      "title": "옛날 이야기",
+      "start_chapter": 58,
+      "end_chapter": 59,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "161b920f-26ad-46ef-ac5b-c1dabe0500fb",
+      "episode_number": "41",
+      "title": "신뢰",
+      "start_chapter": 60,
+      "end_chapter": 60,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "dcfdf5f8-ddb6-4aaa-9381-a2a620b1683c",
+      "episode_number": "42",
+      "title": "회답",
+      "start_chapter": 61,
+      "end_chapter": 61,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "a1cde516-ab93-495b-8ac2-419e655a4559",
+      "episode_number": "43",
+      "title": "죄",
+      "start_chapter": 62,
+      "end_chapter": 65,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "345ea9ad-0bd1-4836-983b-b66d79d69507",
+      "episode_number": "44",
+      "title": "소망",
+      "start_chapter": 66,
+      "end_chapter": 66,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "2cc55b44-2ad7-489c-a9cc-0fff02b050b8",
+      "episode_number": "45",
+      "title": "오르부드구 외벽",
+      "start_chapter": 67,
+      "end_chapter": 67,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "5497bc74-5309-4dba-8ef8-a9ec971740c3",
+      "episode_number": "46",
+      "title": "벽의 왕",
+      "start_chapter": 68,
+      "end_chapter": 68,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "f42497de-df59-4e8d-9f41-c2baa5f1b623",
+      "episode_number": "47",
+      "title": "친구",
+      "start_chapter": 69,
+      "end_chapter": 70,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "82b01e14-e3ae-4069-9b13-5d52fe837474",
+      "episode_number": "48",
+      "title": "방관자",
+      "start_chapter": 71,
+      "end_chapter": 71,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "b5cb30ac-fd08-4c9b-9c27-8ab82c1675b4",
+      "episode_number": "49",
+      "title": "탈환 작전의 밤",
+      "start_chapter": 72,
+      "end_chapter": 72,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "f328ead3-82f1-4b4b-844b-4daf1ae738fd",
+      "episode_number": "50",
+      "title": "시작의 마을",
+      "start_chapter": 73,
+      "end_chapter": 75,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "a4bb8b35-b654-488d-8ea2-9e4ba941c05d",
+      "episode_number": "51",
+      "title": "번개 창",
+      "start_chapter": 76,
+      "end_chapter": 77,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "0dca4426-148b-4d18-86f5-d0167eedee30",
+      "episode_number": "52",
+      "title": "강림",
+      "start_chapter": 78,
+      "end_chapter": 78,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "3489caa3-40b2-4705-a1c7-8389d6a87c26",
+      "episode_number": "53",
+      "title": "퍼펙트 게임",
+      "start_chapter": 79,
+      "end_chapter": 81,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "f5426d55-16b8-43cb-ad09-8f6d256d60be",
+      "episode_number": "54",
+      "title": "용사",
+      "start_chapter": 82,
+      "end_chapter": 83,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "215b0c60-2a63-4833-b23b-1288f3ed5fd1",
+      "episode_number": "55",
+      "title": "백야",
+      "start_chapter": 84,
+      "end_chapter": 84,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "74bb2b61-ed7a-4b36-8657-3ddade1842b9",
+      "episode_number": "56",
+      "title": "지하실",
+      "start_chapter": 85,
+      "end_chapter": 85,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "2bb1582d-d106-43e0-a556-49a850979158",
+      "episode_number": "57",
+      "title": "그날",
+      "start_chapter": 86,
+      "end_chapter": 87,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "a3f808d6-3277-4eb1-ae7e-a0f79fbf3d32",
+      "episode_number": "58",
+      "title": "진격의 거인",
+      "start_chapter": 88,
+      "end_chapter": 89,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "eb07db3f-763a-43cc-b6bd-907d473dfac9",
+      "episode_number": "59",
+      "title": "벽 너머",
+      "start_chapter": 90,
+      "end_chapter": 90,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "f9cbca8a-ad2a-4e19-be1d-ae87e21dd16b",
+      "episode_number": "60",
+      "title": "바다 건너편",
+      "start_chapter": 91,
+      "end_chapter": 92,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "9d3eaf41-9401-442f-9e77-35c0377f4700",
+      "episode_number": "61",
+      "title": "어둠 속의 열차",
+      "start_chapter": 93,
+      "end_chapter": 95,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "335201f9-1fdf-46b5-b945-a1afb56c8d0a",
+      "episode_number": "62",
+      "title": "희망의 문",
+      "start_chapter": 96,
+      "end_chapter": 96,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "adec216a-1079-40a1-ada9-1907d75ef551",
+      "episode_number": "63",
+      "title": "손에서 손으로",
+      "start_chapter": 97,
+      "end_chapter": 99,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "2fa15b6b-b49f-4642-8616-c95c87bd9a7c",
+      "episode_number": "64",
+      "title": "선전포고",
+      "start_chapter": 100,
+      "end_chapter": 100,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "ec02b938-1d34-4573-bb11-2c0b320cfb03",
+      "episode_number": "65",
+      "title": "전퇴의 거인",
+      "start_chapter": 101,
+      "end_chapter": 102,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "4a519341-0c29-4e04-a79c-a44876fe442c",
+      "episode_number": "66",
+      "title": "강습",
+      "start_chapter": 103,
+      "end_chapter": 104,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "98d5ea43-b80d-4dbe-81a7-d9af488036fd",
+      "episode_number": "67",
+      "title": "흉탄",
+      "start_chapter": 105,
+      "end_chapter": 105,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "3b58b755-a27b-4dc4-aeee-63dd9d4adddf",
+      "episode_number": "68",
+      "title": "의용병",
+      "start_chapter": 106,
+      "end_chapter": 107,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "9e5048cb-7a4d-434f-ad2c-3702f8f4fd0e",
+      "episode_number": "69",
+      "title": "정론",
+      "start_chapter": 108,
+      "end_chapter": 108,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "2feeffa2-d344-41d6-a90e-211467cef3eb",
+      "episode_number": "70",
+      "title": "가짜",
+      "start_chapter": 108,
+      "end_chapter": 108,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "e8df9f70-a829-4b0e-abc7-1eb276914b27",
+      "episode_number": "71",
+      "title": "이끄는 자",
+      "start_chapter": 109,
+      "end_chapter": 110,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "24bb819d-6396-490c-b65b-9f5d69dd4356",
+      "episode_number": "72",
+      "title": "숲의 아이들",
+      "start_chapter": 111,
+      "end_chapter": 112,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "26de1f8a-2994-48f1-a0ca-16906026e3d3",
+      "episode_number": "73",
+      "title": "폭악",
+      "start_chapter": 113,
+      "end_chapter": 113,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "8271c8af-92a5-4cda-a006-d0808cc45ca7",
+      "episode_number": "74",
+      "title": "유일한 구원",
+      "start_chapter": 114,
+      "end_chapter": 115,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "399c9086-f9f1-4032-8eaf-bd4cfc0c2a5f",
+      "episode_number": "75",
+      "title": "천지",
+      "start_chapter": 116,
+      "end_chapter": 116,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "ffe738d9-0f9c-421e-919d-ae2cf7f00d97",
+      "episode_number": "76",
+      "title": "단죄",
+      "start_chapter": 117,
+      "end_chapter": 117,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "208fe94f-9b55-4fcf-a675-150e9dbe947a",
+      "episode_number": "77",
+      "title": "속임수",
+      "start_chapter": 118,
+      "end_chapter": 118,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "c6400657-81ba-4642-b1a1-6dce160d0be2",
+      "episode_number": "78",
+      "title": "형과 동생",
+      "start_chapter": 119,
+      "end_chapter": 120,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "6535e633-647c-4da2-ac41-df01c693ce48",
+      "episode_number": "79",
+      "title": "미래의 기억",
+      "start_chapter": 121,
+      "end_chapter": 121,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "1a25c401-c87a-43e2-8239-2e91b10e46a5",
+      "episode_number": "80",
+      "title": "2000년 전의 너로부터",
+      "start_chapter": 122,
+      "end_chapter": 123,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "4f006a45-bc0e-4c46-8436-88cd762607ed",
+      "episode_number": "81",
+      "title": "빙해",
+      "start_chapter": 124,
+      "end_chapter": 124,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "5b930104-22bf-4a75-93e8-d5175ff9ee58",
+      "episode_number": "82",
+      "title": "저녁노을",
+      "start_chapter": 125,
+      "end_chapter": 125,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "9d5a1351-a5a8-4d73-900f-710ae0e77d3f",
+      "episode_number": "83",
+      "title": "긍지",
+      "start_chapter": 126,
+      "end_chapter": 126,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "3c6725af-d05f-440c-bd46-104e28b9c9d2",
+      "episode_number": "84",
+      "title": "종말의 밤",
+      "start_chapter": 127,
+      "end_chapter": 127,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "e8857e79-c686-4187-8aa2-b176680c75ea",
+      "episode_number": "85",
+      "title": "배신자",
+      "start_chapter": 128,
+      "end_chapter": 128,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "938e53ca-bbbe-4064-a010-c8c9c68c4d63",
+      "episode_number": "86",
+      "title": "회고",
+      "start_chapter": 129,
+      "end_chapter": 129,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "d98e567a-8d7a-4f41-8b3f-6ef5342d72d3",
+      "episode_number": "87",
+      "title": "인류의 새벽",
+      "start_chapter": 130,
+      "end_chapter": 130,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "b3dcfc4a-79f8-472b-b13f-2e41d82210bd",
+      "episode_number": "88",
+      "title": "땅울림",
+      "start_chapter": 131,
+      "end_chapter": 131,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "d9f4116d-b181-4bb3-a4f1-e23b0a0bfc1c",
+      "episode_number": "89",
+      "title": "자유의 날개",
+      "start_chapter": 132,
+      "end_chapter": 133,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "fbf6075e-28d2-4ea3-9302-a2f51c9d936c",
+      "episode_number": "90",
+      "title": "절망의 끝에서",
+      "start_chapter": 134,
+      "end_chapter": 134,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "cd3b5f0c-f517-4481-b7e0-b2242ec0e397",
+      "episode_number": "91",
+      "title": "하늘과 땅의 전쟁",
+      "start_chapter": 135,
+      "end_chapter": 135,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "1d2b60ec-2809-452b-ab74-ab1c1cf50fec",
+      "episode_number": "92",
+      "title": "심장을 바쳐라",
+      "start_chapter": 136,
+      "end_chapter": 137,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "122f24ed-0982-4bca-a262-704328f495ae",
+      "episode_number": "93",
+      "title": "긴 꿈",
+      "start_chapter": 138,
+      "end_chapter": 138,
+      "cover_url": null,
+      "duration": 24
+    },
+    {
+      "id": "f86a6929-50ab-4086-a0d5-d905c1b0f284",
+      "episode_number": "94",
+      "title": "저 언덕의 나무를 향해",
+      "start_chapter": 139,
+      "end_chapter": 139,
+      "cover_url": null,
+      "duration": 24
+    }
+  ],
+  "volumes": [
+    {
+      "id": "4c60dbe9-6c43-421c-8f88-22475a534064",
+      "volume_number": 1,
+      "start_chapter": 1,
+      "end_chapter": 4,
+      "cover_url": null
+    },
+    {
+      "id": "eb187e7f-7741-4cc0-a179-04fcad9515fc",
+      "volume_number": 2,
+      "start_chapter": 5,
+      "end_chapter": 9,
+      "cover_url": null
+    },
+    {
+      "id": "687a2afa-ec44-4814-9460-57354abef77d",
+      "volume_number": 3,
+      "start_chapter": 10,
+      "end_chapter": 13,
+      "cover_url": null
+    },
+    {
+      "id": "ea261019-ce33-485c-8b43-3d037025c610",
+      "volume_number": 4,
+      "start_chapter": 14,
+      "end_chapter": 18,
+      "cover_url": null
+    },
+    {
+      "id": "8d6ba53f-b776-4802-a790-ea3b0b24038b",
+      "volume_number": 5,
+      "start_chapter": 19,
+      "end_chapter": 22,
+      "cover_url": null
+    },
+    {
+      "id": "b252900a-b8e4-4ec2-b5f5-f1aa0004aa79",
+      "volume_number": 6,
+      "start_chapter": 23,
+      "end_chapter": 26,
+      "cover_url": null
+    },
+    {
+      "id": "b890f671-55be-4d50-8152-f5552753510d",
+      "volume_number": 7,
+      "start_chapter": 27,
+      "end_chapter": 30,
+      "cover_url": null
+    },
+    {
+      "id": "1079cc65-3c66-4cc0-a66e-3947d780f7ed",
+      "volume_number": 8,
+      "start_chapter": 31,
+      "end_chapter": 34,
+      "cover_url": null
+    },
+    {
+      "id": "fe9c6f7f-2044-4012-80eb-c6b76707e5c0",
+      "volume_number": 9,
+      "start_chapter": 35,
+      "end_chapter": 38,
+      "cover_url": null
+    },
+    {
+      "id": "8c7e8b2a-03d2-4b51-9d6c-819401fbc9ee",
+      "volume_number": 10,
+      "start_chapter": 39,
+      "end_chapter": 42,
+      "cover_url": null
+    },
+    {
+      "id": "22bc7429-bd15-4368-9338-a49bb762f787",
+      "volume_number": 11,
+      "start_chapter": 43,
+      "end_chapter": 46,
+      "cover_url": null
+    },
+    {
+      "id": "b3181e25-cd39-4dfe-aaa0-c2c827d1bebd",
+      "volume_number": 12,
+      "start_chapter": 47,
+      "end_chapter": 50,
+      "cover_url": null
+    },
+    {
+      "id": "5a52ed31-7224-466d-8e13-a7d07caba2a8",
+      "volume_number": 13,
+      "start_chapter": 51,
+      "end_chapter": 54,
+      "cover_url": null
+    },
+    {
+      "id": "6461fc37-7c23-4d16-87ac-1e79ea62effc",
+      "volume_number": 14,
+      "start_chapter": 55,
+      "end_chapter": 58,
+      "cover_url": null
+    },
+    {
+      "id": "80dbefd6-f540-4838-a4d9-90d165f1d18f",
+      "volume_number": 15,
+      "start_chapter": 59,
+      "end_chapter": 62,
+      "cover_url": null
+    },
+    {
+      "id": "f60258b3-a24a-47c0-933f-926f85e8e45a",
+      "volume_number": 16,
+      "start_chapter": 63,
+      "end_chapter": 66,
+      "cover_url": null
+    },
+    {
+      "id": "d70354f7-0c97-4a53-af81-1562ac2f6399",
+      "volume_number": 17,
+      "start_chapter": 67,
+      "end_chapter": 70,
+      "cover_url": null
+    },
+    {
+      "id": "5cbb0244-bd52-4646-8eeb-15544e49d5b0",
+      "volume_number": 18,
+      "start_chapter": 71,
+      "end_chapter": 74,
+      "cover_url": null
+    },
+    {
+      "id": "8e40ed27-22da-44a2-a5ec-94b9ebc3a600",
+      "volume_number": 19,
+      "start_chapter": 75,
+      "end_chapter": 78,
+      "cover_url": null
+    },
+    {
+      "id": "bcd3d6d6-7d4f-4d6e-914b-5f9156a63b94",
+      "volume_number": 20,
+      "start_chapter": 79,
+      "end_chapter": 82,
+      "cover_url": null
+    },
+    {
+      "id": "5509155c-4cc2-4c97-8ed3-bbd6c416f1a7",
+      "volume_number": 21,
+      "start_chapter": 83,
+      "end_chapter": 86,
+      "cover_url": null
+    },
+    {
+      "id": "4317a2d0-fc13-40a8-9e45-d3be9f225d6d",
+      "volume_number": 22,
+      "start_chapter": 87,
+      "end_chapter": 90,
+      "cover_url": null
+    },
+    {
+      "id": "c33d934a-aa7f-4c9a-a61e-0a433e4fb8be",
+      "volume_number": 23,
+      "start_chapter": 91,
+      "end_chapter": 94,
+      "cover_url": null
+    },
+    {
+      "id": "297dde15-79d7-4267-b503-f4169fe1bffa",
+      "volume_number": 24,
+      "start_chapter": 95,
+      "end_chapter": 98,
+      "cover_url": null
+    },
+    {
+      "id": "3c0c1ada-0f5c-45ac-90e5-f6ef496d2bbb",
+      "volume_number": 25,
+      "start_chapter": 99,
+      "end_chapter": 102,
+      "cover_url": null
+    },
+    {
+      "id": "1a8c9a6b-dcfa-415c-9ea7-6ceb312f4701",
+      "volume_number": 26,
+      "start_chapter": 103,
+      "end_chapter": 106,
+      "cover_url": null
+    },
+    {
+      "id": "873d4bba-034c-47c9-9bf7-7f7051741541",
+      "volume_number": 27,
+      "start_chapter": 107,
+      "end_chapter": 110,
+      "cover_url": null
+    },
+    {
+      "id": "22a81456-5048-4a5e-8bde-dd34034df6a7",
+      "volume_number": 28,
+      "start_chapter": 111,
+      "end_chapter": 114,
+      "cover_url": null
+    },
+    {
+      "id": "7aab6856-6565-4319-bd7a-4d03a899e088",
+      "volume_number": 29,
+      "start_chapter": 115,
+      "end_chapter": 118,
+      "cover_url": null
+    },
+    {
+      "id": "48ba3fef-20fe-48fb-838e-9c993ce6bc22",
+      "volume_number": 30,
+      "start_chapter": 119,
+      "end_chapter": 122,
+      "cover_url": null
+    },
+    {
+      "id": "20530ea0-c244-4363-9858-0ad2277ae62d",
+      "volume_number": 31,
+      "start_chapter": 123,
+      "end_chapter": 126,
+      "cover_url": null
+    },
+    {
+      "id": "39f4f5f7-bd2c-4bf3-a745-336ccf2a31d1",
+      "volume_number": 32,
+      "start_chapter": 127,
+      "end_chapter": 130,
+      "cover_url": null
+    },
+    {
+      "id": "9cda4843-9ee0-4c64-8b61-b3441927bb85",
+      "volume_number": 33,
+      "start_chapter": 131,
+      "end_chapter": 134,
+      "cover_url": null
+    },
+    {
+      "id": "dc4c41a8-4d03-48e8-8294-767f02f343d6",
+      "volume_number": 34,
+      "start_chapter": 135,
+      "end_chapter": 139,
+      "cover_url": null
+    }
+  ],
+  "tmdb_id": 1429,
+  "tmdb_media_type": "tv",
+  "tmdb_poster_path": null
+}

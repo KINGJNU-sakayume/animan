@@ -39,7 +39,7 @@
       "episode_number": "1",
       "title": "2000년 후의 너에게 ―시간시나 함락①―",
       "start_chapter": 1,
-      "end_chapter": 2,
+      "end_chapter": 1,
       "cover_url": null,
       "duration": 24
     },
@@ -57,16 +57,16 @@
       "episode_number": "3",
       "title": "절망 속에서 둔하게 빛나는 ―인류의 재기①―",
       "start_chapter": 3,
-      "end_chapter": 5,
+      "end_chapter": 3,
       "cover_url": null,
       "duration": 24
     },
     {
       "id": "71217952-c4a6-4891-b8b9-70d0bbc96d4f",
       "episode_number": "4",
-      "title": "해산식의 밤 ―인류의 재기②―",
+      "title": "해산식 밤 ―인류의 재기②―",
       "start_chapter": 3,
-      "end_chapter": 4,
+      "end_chapter": 3,
       "cover_url": null,
       "duration": 24
     },
@@ -75,7 +75,7 @@
       "episode_number": "5",
       "title": "첫 출전 ―트로스트구 공방전①―",
       "start_chapter": 4,
-      "end_chapter": 4,
+      "end_chapter": 5,
       "cover_url": null,
       "duration": 24
     },
@@ -83,7 +83,7 @@
       "id": "6912923a-f17e-48f0-b505-1e73f7ddc4d3",
       "episode_number": "6",
       "title": "소녀가 본 세계 ―트로스트구 공방전②―",
-      "start_chapter": 5,
+      "start_chapter": 6,
       "end_chapter": 6,
       "cover_url": null,
       "duration": 24
@@ -93,7 +93,7 @@
       "episode_number": "7",
       "title": "작은 칼날 ―트로스트구 공방전③―",
       "start_chapter": 7,
-      "end_chapter": 8,
+      "end_chapter": 7,
       "cover_url": null,
       "duration": 24
     },
@@ -146,8 +146,8 @@
       "id": "6fa9d791-9dc1-41a8-ba33-7ec731e11e32",
       "episode_number": "13",
       "title": "원초적 욕구 ―트로스트구 공방전⑨―",
-      "start_chapter": 14,
-      "end_chapter": 14,
+      "start_chapter": 15,
+      "end_chapter": 17,
       "cover_url": null,
       "duration": 24
     },
@@ -155,7 +155,7 @@
       "id": "94ec0f13-250b-450f-9db8-02afa0bd8218",
       "episode_number": "14",
       "title": "아직 눈을 마주 볼 수 없어 ―반격 전야①―",
-      "start_chapter": 19,
+      "start_chapter": 18,
       "end_chapter": 19,
       "cover_url": null,
       "duration": 24
@@ -218,7 +218,7 @@
       "id": "2cec759d-5be8-44b6-a775-d9dce7efe309",
       "episode_number": "21",
       "title": "철퇴 ―제57회 벽외조사⑤―",
-      "start_chapter": 28,
+      "start_chapter": 29,
       "end_chapter": 29,
       "cover_url": null,
       "duration": 24
@@ -237,7 +237,7 @@
       "episode_number": "23",
       "title": "미소 ―스토헤스구 급습①―",
       "start_chapter": 31,
-      "end_chapter": 32,
+      "end_chapter": 31,
       "cover_url": null,
       "duration": 24
     },
@@ -246,7 +246,7 @@
       "episode_number": "24",
       "title": "자비 ―스토헤스구 급습②―",
       "start_chapter": 32,
-      "end_chapter": 33,
+      "end_chapter": 32,
       "cover_url": null,
       "duration": 24
     },
@@ -263,7 +263,7 @@
       "id": "0a1a12ff-8929-48d2-94a8-321b1808cdc2",
       "episode_number": "26",
       "title": "짐승 거인",
-      "start_chapter": 34,
+      "start_chapter": 35,
       "end_chapter": 35,
       "cover_url": null,
       "duration": 24
@@ -273,7 +273,7 @@
       "episode_number": "27",
       "title": "다녀왔어",
       "start_chapter": 36,
-      "end_chapter": 37,
+      "end_chapter": 36,
       "cover_url": null,
       "duration": 24
     },
@@ -290,7 +290,7 @@
       "id": "42797cdb-f7da-494d-a9e1-22142088a0b0",
       "episode_number": "29",
       "title": "병사",
-      "start_chapter": 38,
+      "start_chapter": 39,
       "end_chapter": 40,
       "cover_url": null,
       "duration": 24
@@ -299,7 +299,7 @@
       "id": "89736cd4-4bf4-40ff-ac97-43aa718adf73",
       "episode_number": "30",
       "title": "히스토리아",
-      "start_chapter": 40,
+      "start_chapter": 41,
       "end_chapter": 41,
       "cover_url": null,
       "duration": 24
@@ -309,7 +309,7 @@
       "episode_number": "31",
       "title": "전사",
       "start_chapter": 42,
-      "end_chapter": 42,
+      "end_chapter": 43,
       "cover_url": null,
       "duration": 24
     },
@@ -317,8 +317,8 @@
       "id": "5a806581-cede-4a63-8791-81ece6eb424e",
       "episode_number": "32",
       "title": "타·투·극",
-      "start_chapter": 43,
-      "end_chapter": 45,
+      "start_chapter": 44,
+      "end_chapter": 44,
       "cover_url": null,
       "duration": 24
     },
@@ -334,9 +334,9 @@
     {
       "id": "d7ef2e6a-a2c8-420c-b2b8-dd23889d9c70",
       "episode_number": "34",
-      "title": "개구",
+      "title": "입을 열다",
       "start_chapter": 46,
-      "end_chapter": 47,
+      "end_chapter": 46,
       "cover_url": null,
       "duration": 24
     },
@@ -345,7 +345,7 @@
       "episode_number": "35",
       "title": "아이들",
       "start_chapter": 47,
-      "end_chapter": 47,
+      "end_chapter": 48,
       "cover_url": null,
       "duration": 24
     },
@@ -353,7 +353,7 @@
       "id": "516de640-71bd-4b3b-91e4-a45e2644f0c5",
       "episode_number": "36",
       "title": "돌격",
-      "start_chapter": 48,
+      "start_chapter": 49,
       "end_chapter": 49,
       "cover_url": null,
       "duration": 24
@@ -363,7 +363,7 @@
       "episode_number": "37",
       "title": "외침",
       "start_chapter": 50,
-      "end_chapter": 51,
+      "end_chapter": 50,
       "cover_url": null,
       "duration": 24
     },
@@ -371,7 +371,7 @@
       "id": "d2aca226-5ee3-4071-9b0f-ee943722f55c",
       "episode_number": "38",
       "title": "봉화",
-      "start_chapter": 51,
+      "start_chapter": 53,
       "end_chapter": 54,
       "cover_url": null,
       "duration": 24
@@ -380,8 +380,8 @@
       "id": "6e0dcd7d-0973-4b5a-b7be-2ebd9d82d281",
       "episode_number": "39",
       "title": "고통",
-      "start_chapter": 54,
-      "end_chapter": 59,
+      "start_chapter": 55,
+      "end_chapter": 57,
       "cover_url": null,
       "duration": 24
     },
@@ -389,8 +389,8 @@
       "id": "f07a1c91-bc9d-4e3c-9a95-4b04f066d6c3",
       "episode_number": "40",
       "title": "옛날 이야기",
-      "start_chapter": 54,
-      "end_chapter": 58,
+      "start_chapter": 58,
+      "end_chapter": 59,
       "cover_url": null,
       "duration": 24
     },
@@ -398,8 +398,8 @@
       "id": "161b920f-26ad-46ef-ac5b-c1dabe0500fb",
       "episode_number": "41",
       "title": "신뢰",
-      "start_chapter": 57,
-      "end_chapter": 61,
+      "start_chapter": 60,
+      "end_chapter": 60,
       "cover_url": null,
       "duration": 24
     },
@@ -407,8 +407,8 @@
       "id": "dcfdf5f8-ddb6-4aaa-9381-a2a620b1683c",
       "episode_number": "42",
       "title": "회답",
-      "start_chapter": 62,
-      "end_chapter": 62,
+      "start_chapter": 61,
+      "end_chapter": 61,
       "cover_url": null,
       "duration": 24
     },
@@ -424,8 +424,8 @@
     {
       "id": "345ea9ad-0bd1-4836-983b-b66d79d69507",
       "episode_number": "44",
-      "title": "소원",
-      "start_chapter": 64,
+      "title": "소망",
+      "start_chapter": 66,
       "end_chapter": 66,
       "cover_url": null,
       "duration": 24
@@ -434,7 +434,7 @@
       "id": "2cc55b44-2ad7-489c-a9cc-0fff02b050b8",
       "episode_number": "45",
       "title": "오르부드구 외벽",
-      "start_chapter": 66,
+      "start_chapter": 67,
       "end_chapter": 67,
       "cover_url": null,
       "duration": 24
@@ -443,8 +443,8 @@
       "id": "5497bc74-5309-4dba-8ef8-a9ec971740c3",
       "episode_number": "46",
       "title": "벽의 왕",
-      "start_chapter": 67,
-      "end_chapter": 69,
+      "start_chapter": 68,
+      "end_chapter": 68,
       "cover_url": null,
       "duration": 24
     },
@@ -461,7 +461,7 @@
       "id": "82b01e14-e3ae-4069-9b13-5d52fe837474",
       "episode_number": "48",
       "title": "방관자",
-      "start_chapter": 70,
+      "start_chapter": 71,
       "end_chapter": 71,
       "cover_url": null,
       "duration": 24
@@ -470,7 +470,7 @@
       "id": "b5cb30ac-fd08-4c9b-9c27-8ab82c1675b4",
       "episode_number": "49",
       "title": "탈환 작전의 밤",
-      "start_chapter": 70,
+      "start_chapter": 72,
       "end_chapter": 72,
       "cover_url": null,
       "duration": 24
@@ -480,7 +480,7 @@
       "episode_number": "50",
       "title": "시작의 마을",
       "start_chapter": 73,
-      "end_chapter": 74,
+      "end_chapter": 75,
       "cover_url": null,
       "duration": 24
     },
@@ -488,8 +488,8 @@
       "id": "a4bb8b35-b654-488d-8ea2-9e4ba941c05d",
       "episode_number": "51",
       "title": "번개 창",
-      "start_chapter": 75,
-      "end_chapter": 76,
+      "start_chapter": 76,
+      "end_chapter": 77,
       "cover_url": null,
       "duration": 24
     },
@@ -497,8 +497,8 @@
       "id": "0dca4426-148b-4d18-86f5-d0167eedee30",
       "episode_number": "52",
       "title": "강림",
-      "start_chapter": 77,
-      "end_chapter": 79,
+      "start_chapter": 78,
+      "end_chapter": 78,
       "cover_url": null,
       "duration": 24
     },
@@ -515,7 +515,7 @@
       "id": "f5426d55-16b8-43cb-ad09-8f6d256d60be",
       "episode_number": "54",
       "title": "용사",
-      "start_chapter": 81,
+      "start_chapter": 82,
       "end_chapter": 83,
       "cover_url": null,
       "duration": 24
@@ -524,7 +524,7 @@
       "id": "215b0c60-2a63-4833-b23b-1288f3ed5fd1",
       "episode_number": "55",
       "title": "백야",
-      "start_chapter": 83,
+      "start_chapter": 84,
       "end_chapter": 84,
       "cover_url": null,
       "duration": 24
@@ -534,7 +534,7 @@
       "episode_number": "56",
       "title": "지하실",
       "start_chapter": 85,
-      "end_chapter": 86,
+      "end_chapter": 85,
       "cover_url": null,
       "duration": 24
     },
@@ -560,7 +560,7 @@
       "id": "eb07db3f-763a-43cc-b6bd-907d473dfac9",
       "episode_number": "59",
       "title": "벽 너머",
-      "start_chapter": 88,
+      "start_chapter": 90,
       "end_chapter": 90,
       "cover_url": null,
       "duration": 24
@@ -587,8 +587,8 @@
       "id": "335201f9-1fdf-46b5-b945-a1afb56c8d0a",
       "episode_number": "62",
       "title": "희망의 문",
-      "start_chapter": 94,
-      "end_chapter": 97,
+      "start_chapter": 96,
+      "end_chapter": 96,
       "cover_url": null,
       "duration": 24
     },
@@ -597,7 +597,7 @@
       "episode_number": "63",
       "title": "손에서 손으로",
       "start_chapter": 97,
-      "end_chapter": 98,
+      "end_chapter": 99,
       "cover_url": null,
       "duration": 24
     },
@@ -605,7 +605,7 @@
       "id": "2fa15b6b-b49f-4642-8616-c95c87bd9a7c",
       "episode_number": "64",
       "title": "선전포고",
-      "start_chapter": 99,
+      "start_chapter": 100,
       "end_chapter": 100,
       "cover_url": null,
       "duration": 24
@@ -614,7 +614,7 @@
       "id": "ec02b938-1d34-4573-bb11-2c0b320cfb03",
       "episode_number": "65",
       "title": "전퇴의 거인",
-      "start_chapter": 100,
+      "start_chapter": 101,
       "end_chapter": 102,
       "cover_url": null,
       "duration": 24
@@ -623,7 +623,7 @@
       "id": "4a519341-0c29-4e04-a79c-a44876fe442c",
       "episode_number": "66",
       "title": "강습",
-      "start_chapter": 102,
+      "start_chapter": 103,
       "end_chapter": 104,
       "cover_url": null,
       "duration": 24
@@ -632,7 +632,7 @@
       "id": "98d5ea43-b80d-4dbe-81a7-d9af488036fd",
       "episode_number": "67",
       "title": "흉탄",
-      "start_chapter": 104,
+      "start_chapter": 105,
       "end_chapter": 105,
       "cover_url": null,
       "duration": 24
@@ -650,7 +650,7 @@
       "id": "9e5048cb-7a4d-434f-ad2c-3702f8f4fd0e",
       "episode_number": "69",
       "title": "정론",
-      "start_chapter": 107,
+      "start_chapter": 108,
       "end_chapter": 108,
       "cover_url": null,
       "duration": 24
@@ -658,9 +658,9 @@
     {
       "id": "2feeffa2-d344-41d6-a90e-211467cef3eb",
       "episode_number": "70",
-      "title": "거짓말쟁이",
-      "start_chapter": 107,
-      "end_chapter": 109,
+      "title": "가짜",
+      "start_chapter": 108,
+      "end_chapter": 108,
       "cover_url": null,
       "duration": 24
     },
@@ -668,8 +668,8 @@
       "id": "e8df9f70-a829-4b0e-abc7-1eb276914b27",
       "episode_number": "71",
       "title": "이끄는 자",
-      "start_chapter": 110,
-      "end_chapter": 111,
+      "start_chapter": 109,
+      "end_chapter": 110,
       "cover_url": null,
       "duration": 24
     },
@@ -677,7 +677,7 @@
       "id": "24bb819d-6396-490c-b65b-9f5d69dd4356",
       "episode_number": "72",
       "title": "숲의 아이들",
-      "start_chapter": 110,
+      "start_chapter": 111,
       "end_chapter": 112,
       "cover_url": null,
       "duration": 24
@@ -686,7 +686,7 @@
       "id": "26de1f8a-2994-48f1-a0ca-16906026e3d3",
       "episode_number": "73",
       "title": "폭악",
-      "start_chapter": 112,
+      "start_chapter": 113,
       "end_chapter": 113,
       "cover_url": null,
       "duration": 24
@@ -704,8 +704,8 @@
       "id": "399c9086-f9f1-4032-8eaf-bd4cfc0c2a5f",
       "episode_number": "75",
       "title": "천지",
-      "start_chapter": 115,
-      "end_chapter": 117,
+      "start_chapter": 116,
+      "end_chapter": 116,
       "cover_url": null,
       "duration": 24
     },
@@ -713,8 +713,8 @@
       "id": "ffe738d9-0f9c-421e-919d-ae2cf7f00d97",
       "episode_number": "76",
       "title": "단죄",
-      "start_chapter": 115,
-      "end_chapter": 118,
+      "start_chapter": 117,
+      "end_chapter": 117,
       "cover_url": null,
       "duration": 24
     },
@@ -722,8 +722,8 @@
       "id": "208fe94f-9b55-4fcf-a675-150e9dbe947a",
       "episode_number": "77",
       "title": "속임수",
-      "start_chapter": 117,
-      "end_chapter": 119,
+      "start_chapter": 118,
+      "end_chapter": 118,
       "cover_url": null,
       "duration": 24
     },
@@ -740,7 +740,7 @@
       "id": "6535e633-647c-4da2-ac41-df01c693ce48",
       "episode_number": "79",
       "title": "미래의 기억",
-      "start_chapter": 120,
+      "start_chapter": 121,
       "end_chapter": 121,
       "cover_url": null,
       "duration": 24
@@ -749,15 +749,15 @@
       "id": "1a25c401-c87a-43e2-8239-2e91b10e46a5",
       "episode_number": "80",
       "title": "2000년 전의 너로부터",
-      "start_chapter": 121,
-      "end_chapter": 124,
+      "start_chapter": 122,
+      "end_chapter": 123,
       "cover_url": null,
       "duration": 24
     },
     {
       "id": "4f006a45-bc0e-4c46-8436-88cd762607ed",
       "episode_number": "81",
-      "title": "해빙",
+      "title": "빙해",
       "start_chapter": 124,
       "end_chapter": 124,
       "cover_url": null,
@@ -804,7 +804,7 @@
       "episode_number": "86",
       "title": "회고",
       "start_chapter": 129,
-      "end_chapter": 130,
+      "end_chapter": 129,
       "cover_url": null,
       "duration": 24
     },
@@ -822,7 +822,7 @@
       "episode_number": "88",
       "title": "땅울림",
       "start_chapter": 131,
-      "end_chapter": 139,
+      "end_chapter": 131,
       "cover_url": null,
       "duration": 24
     },
@@ -830,8 +830,8 @@
       "id": "d9f4116d-b181-4bb3-a4f1-e23b0a0bfc1c",
       "episode_number": "89",
       "title": "자유의 날개",
-      "start_chapter": 131,
-      "end_chapter": 139,
+      "start_chapter": 132,
+      "end_chapter": 133,
       "cover_url": null,
       "duration": 24
     },
@@ -839,17 +839,17 @@
       "id": "fbf6075e-28d2-4ea3-9302-a2f51c9d936c",
       "episode_number": "90",
       "title": "절망의 끝에서",
-      "start_chapter": 131,
-      "end_chapter": 139,
+      "start_chapter": 134,
+      "end_chapter": 134,
       "cover_url": null,
       "duration": 24
     },
     {
       "id": "cd3b5f0c-f517-4481-b7e0-b2242ec0e397",
       "episode_number": "91",
-      "title": "하늘과 땅의 싸움",
-      "start_chapter": 131,
-      "end_chapter": 139,
+      "title": "하늘과 땅의 전쟁",
+      "start_chapter": 135,
+      "end_chapter": 135,
       "cover_url": null,
       "duration": 24
     },
@@ -857,8 +857,8 @@
       "id": "1d2b60ec-2809-452b-ab74-ab1c1cf50fec",
       "episode_number": "92",
       "title": "심장을 바쳐라",
-      "start_chapter": 131,
-      "end_chapter": 139,
+      "start_chapter": 136,
+      "end_chapter": 137,
       "cover_url": null,
       "duration": 24
     },
@@ -866,8 +866,8 @@
       "id": "122f24ed-0982-4bca-a262-704328f495ae",
       "episode_number": "93",
       "title": "긴 꿈",
-      "start_chapter": 131,
-      "end_chapter": 139,
+      "start_chapter": 138,
+      "end_chapter": 138,
       "cover_url": null,
       "duration": 24
     },
@@ -875,7 +875,7 @@
       "id": "f86a6929-50ab-4086-a0d5-d905c1b0f284",
       "episode_number": "94",
       "title": "저 언덕의 나무를 향해",
-      "start_chapter": 131,
+      "start_chapter": 139,
       "end_chapter": 139,
       "cover_url": null,
       "duration": 24
